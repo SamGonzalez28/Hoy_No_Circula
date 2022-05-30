@@ -29,8 +29,6 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [spring initializr](https://start.spring.io) 
 * [Maven](https://maven.apache.org/)
 
